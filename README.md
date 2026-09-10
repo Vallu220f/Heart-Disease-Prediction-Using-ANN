@@ -1,10 +1,10 @@
-# ❤️ Heart Disease Prediction Using ANN
+# Heart Disease Prediction Using ANN
 
-## 📌 Overview
+##  Overview
 
 A Machine Learning project that predicts the likelihood of heart disease using an **Artificial Neural Network (ANN)** built with TensorFlow/Keras.
 
-## 🛠️ Technologies
+##  Technologies
 
 * Python
 * Pandas & NumPy
@@ -13,27 +13,27 @@ A Machine Learning project that predicts the likelihood of heart disease using a
 * Streamlit
 * Matplotlib & Seaborn
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 Data Preprocessing → EDA → Feature Scaling → ANN → Model Evaluation → Streamlit Deployment
 ```
 
-## 🚀 Features
+##  Features
 
 * Patient health data analysis
 * ANN-based classification
 * Interactive Streamlit prediction app
 * Model deployment
 
-## ▶️ Run the App
+##  Run the App
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Heart-Disease-Prediction/
@@ -44,11 +44,11 @@ Heart-Disease-Prediction/
 └── README.md
 ```
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is for **educational purposes only** and should not be used as a substitute for professional medical advice.
 
-## 👨‍💻 Author
+##  Author
 
 **Vallabh Kulkarni**
 Data Science & Machine Learning Enthusiast
